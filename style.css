@@ -1,0 +1,21 @@
+body {
+    color:grey;
+}
+
+.black-border {
+    border:5px solid black;
+    color: blue;
+}
+
+p {
+    font-size:  20px;
+}
+
+.color-h{
+    color: red;
+}
+
+.about-text{
+    background-color: chartreuse;
+    font-family: Arial, Helvetica, sans-serif;
+}
